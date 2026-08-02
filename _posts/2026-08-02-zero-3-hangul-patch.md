@@ -21,6 +21,27 @@ PS2 로 출시된 **제로 ~문신의 소리~**의 한글패치를 배포합니�
 
 <br><br>
 
+## 스크린샷
+
+<div markdown=1 class="sx-center">
+<a href="/assets/img/posts/16/1.jpg" data-lity>
+  <img src="/assets/img/posts/16/1.jpg" style="width:400px" />
+</a>
+<a href="/assets/img/posts/16/2.jpg" data-lity>
+  <img src="/assets/img/posts/16/2.jpg" style="width:400px" />
+</a>
+</div>
+<div markdown=1 class="sx-center">
+<a href="/assets/img/posts/16/3.jpg" data-lity>
+  <img src="/assets/img/posts/16/3.jpg" style="width:400px" />
+</a>
+<a href="/assets/img/posts/16/4.jpg" data-lity>
+  <img src="/assets/img/posts/16/4.jpg" style="width:400px" />
+</a>
+</div>
+
+<br><br>
+
 ## 작업자
 
 |그래픽|쿠조, 피씨|
