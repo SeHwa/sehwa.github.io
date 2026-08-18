@@ -52,6 +52,7 @@ PS2 로 출시된 **제로 ~문신의 소리~**의 한글패치를 배포합니�
 
 ## 업데이트 내역
 
+|2026-08-19|v1.2 일부 자막 및 영석 라디오 버그 수정|
 |2026-08-05|v1.1 퍼즐 버그 수정|
 |2026-08-02|v1.0 공개|
 
@@ -60,7 +61,7 @@ PS2 로 출시된 **제로 ~문신의 소리~**의 한글패치를 배포합니�
 ## 다운로드
 
 <div class="sx-button">
-  <a href="https://github.com/SeHwa/zero-3-hangul-patch/releases/download/v1.1/patch.xdelta" class="sx-button__content github">
+  <a href="https://github.com/SeHwa/zero-3-hangul-patch/releases/download/v1.2/patch.xdelta" class="sx-button__content github">
     <p>패치 다운로드</p>
   </a>
 </div>
