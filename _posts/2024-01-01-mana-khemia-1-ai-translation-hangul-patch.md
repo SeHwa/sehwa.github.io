@@ -17,7 +17,10 @@ og_image: assets/img/posts/11/cover.jpg
 
 <br>
 
-# [2026/11/15 정식 한글패치 배포 링크](https://sehwa.github.io/hangul/2026/11/15/mana-khemia-1-hangul-patch.html)
+# [2026/11/15 정식 한글패치 배포 링크](/hangul/2026/11/15/mana-khemia-1-hangul-patch.html)
+
+<br>
+<br>
 
 ~~PS2 로 출시된 **마나케미아 ~학원의 연금술사들~**의 AI번역 한글패치를 배포합니다.~~
 
