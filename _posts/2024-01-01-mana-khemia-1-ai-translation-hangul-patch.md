@@ -60,7 +60,7 @@ og_image: assets/img/posts/11/cover.jpg
 ## 다운로드
 
 <div class="sx-button">
-  <a href="#" class="sx-button__content github">
+  <a href="/hangul/2026/11/15/mana-khemia-1-hangul-patch.html" class="sx-button__content github">
     <p>패치 다운로드</p>
   </a>
 </div>
